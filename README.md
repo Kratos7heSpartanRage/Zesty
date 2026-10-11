@@ -1,4 +1,4 @@
-# Anime & Manga Recommendation Agent
+# Zesty - Anime & Manga Recommendation Agent
 
 ## Project Description
 
